@@ -1,6 +1,27 @@
 // Replace this with your actual events
 var events = [
     {time: '10:00', responsible: 'John', description: 'Opening ceremony'},
+    {time: '10:10', responsible: 'John', description: 'Opening ceremony'},
+    {time: '10:20', responsible: 'John', description: 'Opening ceremony'},
+    {time: '10:30', responsible: 'John', description: 'Opening ceremony'},
+    {time: '10:40', responsible: 'John', description: 'Opening ceremony'},
+    {time: '10:50', responsible: 'John', description: 'Opening ceremony'},
+    {time: '11:00', responsible: 'John', description: 'Opening ceremony'},
+    {time: '11:10', responsible: 'John', description: 'Opening ceremony'},
+    {time: '11:20', responsible: 'John', description: 'Opening ceremony'},
+    {time: '11:30', responsible: 'John', description: 'Opening ceremony'},
+    {time: '11:40', responsible: 'John', description: 'Opening ceremony'},
+    {time: '11:50', responsible: 'John', description: 'Opening ceremony'},
+    {time: '12:00', responsible: 'John', description: 'Opening ceremony'},
+    {time: '12:10', responsible: 'John', description: 'Opening ceremony'},
+    {time: '12:20', responsible: 'John', description: 'Opening ceremony'},
+    {time: '12:30', responsible: 'John', description: 'Opening ceremony'},
+    {time: '12:40', responsible: 'John', description: 'Opening ceremony'},
+    {time: '12:50', responsible: 'John', description: 'Opening ceremony'},
+    {time: '16:00', responsible: 'John', description: 'Opening ceremony'},
+    {time: '18:00', responsible: 'John', description: 'Opening ceremony'},
+    {time: '19:00', responsible: 'John', description: 'Opening ceremony'},
+    {time: '20:00', responsible: 'John', description: 'Opening ceremony'}
     // Add more events here
 ];
 
