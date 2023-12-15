@@ -1,0 +1,32 @@
+/* Style the table */
+#events {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* Style the table header */
+#events th {
+    background-color: #f2f2f2;
+    color: black;
+}
+
+/* Style the table cells */
+#events td, #events th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+/* Style every even row */
+#events tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Style every odd row */
+#events tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+/* Add a hover effect to rows */
+#events tr:hover {
+    background-color: #ddd;
+}
